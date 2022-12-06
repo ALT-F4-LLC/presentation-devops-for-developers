@@ -1,0 +1,3 @@
+name: service-directory
+description: Centralized automation for internal services.
+runtime: nodejs
